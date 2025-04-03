@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/example page.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "example page"
+              "title": "index"
             }
           }
         ]
@@ -171,12 +171,12 @@
   },
   "active": "78aa899b653671d1",
   "lastOpenFiles": [
-    "posts/_index.md",
-    "posts/introduction/index.md",
     "posts/how-to-template/index.md",
-    "posts/how-to-template",
-    "templates/example page.md",
+    "posts/introduction/index.md",
+    "posts/_index.md",
     "about/index.md",
+    "templates/example page.md",
+    "posts/how-to-template",
     "Untitled/Untitled",
     "templates"
   ]
