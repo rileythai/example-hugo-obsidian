@@ -171,8 +171,12 @@
   },
   "active": "78aa899b653671d1",
   "lastOpenFiles": [
-    "about/index.md",
+    "posts/_index.md",
+    "posts/introduction/index.md",
+    "posts/how-to-template/index.md",
+    "posts/how-to-template",
     "templates/example page.md",
+    "about/index.md",
     "Untitled/Untitled",
     "templates"
   ]
