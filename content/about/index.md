@@ -21,6 +21,12 @@ Set theme parameter in your config file:
 theme = "hugo-theme-console"
 ```
 
+## Using Obsidian
+
+The Obsidian vault lives in the `content` directory. 
+
+There is nothing more to this other than hitting `Ctrl+P` and using the `Git: Commit all changes with specific message` command.
+
 ## Quick start
 
 Hugo includes a development server, so you can view your changes as you go - very handy. Spin it up with the following command:
