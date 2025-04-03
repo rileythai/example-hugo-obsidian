@@ -23,6 +23,12 @@ languageCode = "en-us"
   name = "photos/"
   url = "photos/"
 
+[module]
+  [[module.mounts]]
+    excludeFiles = "templates/*"
+    source = 'content'
+    target = 'content'
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
