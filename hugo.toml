@@ -1,5 +1,5 @@
 baseurl = "https://foobar.com/"
-title = "Riley Thai"
+title = "Hugo Obsidian Template"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "templates/example page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "example page"
             }
           }
         ]
@@ -165,9 +165,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "78aa899b653671d1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "about/index.md",
+    "templates/example page.md",
+    "Untitled/Untitled",
+    "templates"
+  ]
 }
