@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "posts/commiting-from-obsidian/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,10 +171,19 @@
   },
   "active": "78aa899b653671d1",
   "lastOpenFiles": [
-    "posts/how-to-template/index.md",
-    "posts/introduction/index.md",
-    "posts/_index.md",
     "about/index.md",
+    "templates/example page.md~",
+    "posts/how-to-template/index.md",
+    "posts/commiting-from-obsidian/index.md",
+    "photos/chicago-us/index.md",
+    "posts/introduction/index.md",
+    "posts/commiting-from-obsidian/commitwindow.png",
+    "posts/commiting-from-obsidian/Pasted image.png",
+    "posts/what-is-hugo/Pasted image.png",
+    "posts/commiting-from-obsidian",
+    "posts/how-to-template/index.md~",
+    "about/index.md~",
+    "posts/_index.md",
     "templates/example page.md",
     "posts/how-to-template",
     "Untitled/Untitled",

@@ -11,12 +11,11 @@ Theme is the [Hugo Console](https://github.com/mrmierzejewski/hugo-theme-console
 
 ## Live demo
 
-* [https://rileythai.github.io/hugo-obsidian-template/about/]
+* [this website](https://rileythai.github.io/hugo-obsidian-template/about/)
 
-## Configuration
+## Configuring the theme
 
-Set theme parameter in your config file:
-
+Set theme parameter in `hugo.toml`.
 ```
 theme = "hugo-theme-console"
 ```
@@ -39,7 +38,7 @@ Now you can go to [http://localhost:1313](http://localhost:1313) and the theme s
 
 ## Example Site
 
-To run this site yourself:
+To run this site yourself with no dev.
 
 ```
 hugo server
