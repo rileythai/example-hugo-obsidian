@@ -1,17 +1,20 @@
-# what this is
+# Hugo Obsidian template
 
-A basic example showing how to put a Hugo site + Obsidian vault together.
+A basic template showing how to put a Hugo site + Obsidian vault together and deploy on GitHub actions.
 
-Check commit history for things.
+Features:
+- Lightning fast auto-deployment of an Obsidian vault via Hugo and GitHub Actions.
+- A customizable Obsidian vault that is stored alongside the repository.
 
+# How to use
 
-# How to do
+Fork this template to use in your own work.
 
 1. Make Obsidian vault in content folder
 2. Throw on Git
 3. Link to pages per [these instructions](https://gohugo.io/host-and-deploy/host-on-github-pages/)
 
-# Private repos
+# Deploying from a private repo
 
 This is a feature of GitHub Pro (Team, Enterprise, yada)
 
